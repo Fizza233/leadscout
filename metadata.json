@@ -1,0 +1,6 @@
+{
+  "name": "LeadScout - B2B Discovery Tool",
+  "description": "Generate high-quality, ethically sourced B2B leads using AI-powered search and lead analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered lead generation", "Cold email drafting", "Company research"]
+}
